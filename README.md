@@ -4,8 +4,11 @@ Demo repo
 ## Second Heading
 
 * one
-* two
+* **two**
 * three
+- [x] finished thing
+- [ ] to do
+
 
 ## Gist code
 
